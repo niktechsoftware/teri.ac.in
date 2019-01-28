@@ -1,0 +1,153 @@
+/* Colors */
+/* Fonts */
+/* font size */
+/* button */
+/* link underline */
+/* Big arrow */
+/* blockquote */
+/* fieldset */
+/* Tranform */
+/* line 4, ../../sass/screens/vertical_tablet.scss */
+.front #page {
+  padding-top: 375px;
+}
+/* line 7, ../../sass/screens/vertical_tablet.scss */
+.front #content {
+  margin-bottom: 90px !important;
+}
+/* line 10, ../../sass/screens/vertical_tablet.scss */
+.front .header {
+  height: 60px;
+}
+/* line 12, ../../sass/screens/vertical_tablet.scss */
+.front .header:before, .front .header:after {
+  bottom: -70px;
+  height: 70px;
+}
+
+/* line 20, ../../sass/screens/vertical_tablet.scss */
+.header .block-menu {
+  bottom: -40px;
+}
+/* line 23, ../../sass/screens/vertical_tablet.scss */
+.header .block-lang-dropdown {
+  bottom: -45px;
+}
+
+/* views news */
+/* line 30, ../../sass/screens/vertical_tablet.scss */
+.view-metro .views-metro-item {
+  height: auto;
+  width: 50%;
+}
+/* line 33, ../../sass/screens/vertical_tablet.scss */
+.view-metro .views-metro-item:first-child {
+  width: 100%;
+}
+/* line 35, ../../sass/screens/vertical_tablet.scss */
+.view-metro .views-metro-item:first-child .item-inner {
+  margin: 0 15px;
+}
+/* line 40, ../../sass/screens/vertical_tablet.scss */
+.view-metro .views-metro-item .views-field-field-image img {
+  height: auto;
+}
+/* line 44, ../../sass/screens/vertical_tablet.scss */
+.view-metro .views-metro-item .item-inner {
+  margin: 0 15px;
+}
+
+/* line 51, ../../sass/screens/vertical_tablet.scss */
+.view-services .views-col {
+  padding: 0 30px;
+  width: 50% !important;
+}
+
+/* line 58, ../../sass/screens/vertical_tablet.scss */
+.view-campus-slideshow .views-slideshow-controls-bottom {
+  bottom: 0;
+}
+/* line 60, ../../sass/screens/vertical_tablet.scss */
+.view-campus-slideshow .views-slideshow-controls-bottom .views_slideshow_pager_field_item {
+  padding: 5px 10px 5px 25px;
+}
+
+/* line 67, ../../sass/screens/vertical_tablet.scss */
+#panel-second .panel-column {
+  width: 50%;
+}
+/* line 69, ../../sass/screens/vertical_tablet.scss */
+#panel-second .panel-column:first-child {
+  margin-bottom: 20px;
+  width: 100%;
+}
+/* line 72, ../../sass/screens/vertical_tablet.scss */
+#panel-second .panel-column:first-child img {
+  float: left;
+  margin-right: 20px;
+}
+
+/* line 83, ../../sass/screens/vertical_tablet.scss */
+.profile .group-user-info,
+.profile .user-picture {
+  width: 33%;
+}
+/* line 86, ../../sass/screens/vertical_tablet.scss */
+.profile .group-user-description {
+  margin-top: -33%;
+  width: 65%;
+}
+/* line 91, ../../sass/screens/vertical_tablet.scss */
+.profile .group-social-networks .field {
+  padding: 0 5px;
+}
+
+/* line 98, ../../sass/screens/vertical_tablet.scss */
+.social-links .views-field,
+.social-links .field {
+  padding: 0 2px;
+}
+
+/* line 104, ../../sass/screens/vertical_tablet.scss */
+.view-jcarousel .jcarousel-skin-default .views-field-field-full-name {
+  font-size: 1.077em;
+}
+/* line 107, ../../sass/screens/vertical_tablet.scss */
+.view-jcarousel .jcarousel-skin-default .views-field-field-user-description {
+  font-size: 0.923em;
+}
+
+/* line 115, ../../sass/screens/vertical_tablet.scss */
+.view-images .views-col .views-field-field-full-name {
+  font-size: 1em;
+}
+/* line 118, ../../sass/screens/vertical_tablet.scss */
+.view-images .views-col .views-field-field--class {
+  font-size: 0.923em;
+}
+
+/* line 126, ../../sass/screens/vertical_tablet.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li img {
+  max-height: 237px;
+}
+/* line 130, ../../sass/screens/vertical_tablet.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li.open img {
+  max-width: 100%;
+}
+/* line 135, ../../sass/screens/vertical_tablet.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list .views-field-description {
+  font-size: 1.077em;
+}
+
+/* line 141, ../../sass/screens/vertical_tablet.scss */
+.view-hot-course .views-field-field-description {
+  display: none;
+}
+/* line 144, ../../sass/screens/vertical_tablet.scss */
+.view-hot-course .views-field-title a {
+  font-size: 1.077em;
+}
+/* line 147, ../../sass/screens/vertical_tablet.scss */
+.view-hot-course .views-field-name {
+  font-size: 1.538em;
+}

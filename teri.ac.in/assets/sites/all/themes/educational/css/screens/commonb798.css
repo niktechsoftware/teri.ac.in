@@ -1,0 +1,61 @@
+/* Colors */
+/* Fonts */
+/* font size */
+/* button */
+/* link underline */
+/* Big arrow */
+/* blockquote */
+/* fieldset */
+/* Tranform */
+/* line 3, ../../sass/screens/common.scss */
+body {
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 8, ../../sass/screens/common.scss */
+html {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+/* line 14, ../../sass/screens/common.scss */
+.affix {
+  position: static;
+}
+
+/* view slide accordian */
+/* line 21, ../../sass/screens/common.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li.hslider-active {
+  width: 70%;
+}
+/* line 25, ../../sass/screens/common.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li {
+  width: 10% !important;
+}
+/* line 27, ../../sass/screens/common.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li .views-fieldset {
+  width: 100%;
+}
+/* line 30, ../../sass/screens/common.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li.open {
+  width: 70% !important;
+}
+
+/* line 39, ../../sass/screens/common.scss */
+.view-intro .views-field-field-image {
+  float: none;
+  margin-bottom: 20px;
+  margin-right: 0;
+  max-width: none;
+}
+/* line 44, ../../sass/screens/common.scss */
+.view-intro .views-field-field-image img {
+  width: 100%;
+}
+
+/* line 51, ../../sass/screens/common.scss */
+.not-front .sidebar {
+  padding-top: 0;
+}

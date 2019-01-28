@@ -1,0 +1,104 @@
+/* Colors */
+/* Fonts */
+/* font size */
+/* button */
+/* link underline */
+/* Big arrow */
+/* blockquote */
+/* fieldset */
+/* Tranform */
+/* line 3, ../../sass/screens/tablet.scss */
+h1, h2, h1#page-title {
+  font-size: 1.385em;
+}
+
+/* line 8, ../../sass/screens/tablet.scss */
+.view-metro .views-metro-item {
+  height: 280px;
+}
+
+/* line 14, ../../sass/screens/tablet.scss */
+.view-campus-slideshow .views-slideshow-controls-bottom {
+  bottom: 0;
+}
+/* line 16, ../../sass/screens/tablet.scss */
+.view-campus-slideshow .views-slideshow-controls-bottom .views_slideshow_pager_field_item {
+    padding: 12px 10px 12px 25px;
+}
+
+/* line 23, ../../sass/screens/tablet.scss */
+.view-hot-course .views-fieldset {
+  padding: 12px 0;
+}
+/* line 27, ../../sass/screens/tablet.scss */
+.view-hot-course .views-field-title a {
+  font-size: 1.154em;
+}
+/* line 31, ../../sass/screens/tablet.scss */
+.view-hot-course .views-field-name {
+  font-size: 1.538em;
+  margin-bottom: 5px;
+}
+
+/* view slide accordian */
+/* line 40, ../../sass/screens/tablet.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li.hslider-active {
+  width: 70%;
+}
+/* line 44, ../../sass/screens/tablet.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li {
+  width: 10% !important;
+}
+/* line 46, ../../sass/screens/tablet.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li .views-fieldset {
+  width: 100%;
+}
+/* line 49, ../../sass/screens/tablet.scss */
+.view-slide-accordian div.views_horizontal_slider div.item-list li.open {
+  width: 70% !important;
+}
+
+/* line 59, ../../sass/screens/tablet.scss */
+.view-courses .view-filters input.form-text {
+  max-width: 172px;
+}
+
+/* line 66, ../../sass/screens/tablet.scss */
+.sidebar .views-field-title a {
+  font-size: 1.077em;
+}
+
+/* line 73, ../../sass/screens/tablet.scss */
+.view-home-testimonial .flexslider .views-field-field--class {
+  padding-left: 60px;
+}
+
+/* line 82, ../../sass/screens/tablet.scss */
+.social-links .views-field,
+.social-links .field,
+.group-social-networks .views-field,
+.group-social-networks .field {
+  padding: 0 6px;
+}
+
+
+
+
+
+
+.content_ank .view-metro .views-metro-item .views-field-title a{
+    min-height: 80px;
+    padding: 2px 0;
+    font-size: 16px;
+}
+.view-services .views-col .views-field-name a {
+    font-size: 14px;
+}
+.view-hot-course .views-field-title {
+    padding: 0px 0 0;
+}
+
+
+
+
+

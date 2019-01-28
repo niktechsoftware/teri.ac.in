@@ -1,0 +1,950 @@
+/* Colors */
+/* Fonts */
+/* font size */
+/* button */
+/* link underline */
+/* Big arrow */
+/* blockquote */
+/* fieldset */
+/* Tranform */
+/* line 3, ../sass/page.scss */
+#page {
+  overflow: hidden;
+  position: relative;
+  z-index: 10;
+}
+/* line 7, ../sass/page.scss */
+#page:after {
+  background: #1e304f;
+  content: "";
+  height: 40%;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%) rotate(-20deg);
+  transform: translateX(-50%) translateY(-50%) rotate(-20deg);
+  width: 200%;
+  z-index: -1;
+}
+
+/* line 22, ../sass/page.scss */
+.front #page {
+  padding-top: 595px;
+}
+/* line 24, ../sass/page.scss */
+.front #page:after {
+  top: 60%;
+}
+
+/* line 30, ../sass/page.scss */
+.container {
+  background: #fff;
+  padding-bottom: 15px;
+}
+
+/* line 36, ../sass/page.scss */
+.front .container {
+  padding-bottom: 40px;
+  position: relative;
+  z-index: 1;
+}
+
+/* line 43, ../sass/page.scss */
+#messages {
+  height: 57px;
+  position: relative;
+  z-index: 2;
+}
+
+/*----- Main -----*/
+/* line 50, ../sass/page.scss */
+#main {
+  position: relative;
+  z-index: 2;
+}
+/* line 53, ../sass/page.scss */
+#main .container {
+  background: white;
+}
+
+/* line 59, ../sass/page.scss */
+.front #main-title {
+  display: none;
+}
+/* line 62, ../sass/page.scss */
+.front #content {
+  background: #b51546;
+  color: white;
+  font-size: 1.077em;
+  margin-bottom: 54px;
+  padding: 30px 30px 0;
+  position: relative;
+  text-align: center;
+}
+/* line 140, ../sass/includes/_include.scss */
+.front #content:before, .front #content:after {
+  position: absolute;
+  bottom: -126px;
+  content: "";
+  height: 126px;
+  width: 50%;
+}
+/* line 147, ../sass/includes/_include.scss */
+.front #content:before {
+  left: 0px;
+  background: -webkit-linear-gradient(-99deg, #1e304f 50%, transparent 50%);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom left, #1e304f 50%, transparent 50%);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom left, #1e304f 50%, transparent 50%);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom left, #1e304f 50%, transparent 50%);
+  /* Standard syntax */
+}
+/* line 154, ../sass/includes/_include.scss */
+.front #content:after {
+  right: 1px;
+  background: -webkit-linear-gradient(-81deg, #1e304f 50%, transparent 50%);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #1e304f 50%, transparent 50%);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #1e304f 50%, transparent 50%);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #1e304f 50%, transparent 50%);
+  /* Standard syntax */
+}
+/* line 71, ../sass/page.scss */
+.front #content:before, .front #content:after {
+  bottom: -50px;
+  height: 50px;
+}
+/* line 75, ../sass/page.scss */
+.front #content:before {
+  background: -webkit-linear-gradient(-99deg, #b51546 50%, transparent 50%);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom left, #b51546 50%, transparent 50%);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom left, #b51546 50%, transparent 50%);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom left, #b51546 50%, transparent 50%);
+  /* Standard syntax */
+}
+/* line 81, ../sass/page.scss */
+.front #content:after {
+  background: -webkit-linear-gradient(-81deg, #b51546 50%, transparent 50%);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #b51546 50%, transparent 50%);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #b51546 50%, transparent 50%);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #b51546 50%, transparent 50%);
+  /* Standard syntax */
+}
+/* line 87, ../sass/page.scss */
+.front #content h1#page-title {
+  color: #fff;
+}
+
+/* line 93, ../sass/page.scss */
+#content {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+/* Main title */
+/* line 100, ../sass/page.scss */
+.main-title .container {
+  background: url(../images/bg-title.jpg) 0 0 no-repeat;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+/* line 106, ../sass/page.scss */
+.main-title #page-title,
+.main-title #node-type {
+  color: white;
+  font-size: 1.538em;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+/* line 112, ../sass/page.scss */
+.main-title #page-slogan {
+  color: white;
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  text-transform: none;
+}
+/* line 118, ../sass/page.scss */
+.main-title #page-slogan:before {
+  display: none;
+}
+
+/* line 125, ../sass/page.scss */
+.node .submitted {
+  font-size: 0.923em;
+  color: #999999;
+  margin-bottom: 10px;
+}
+/* line 131, ../sass/page.scss */
+.node.node-course li {
+  padding-left: 25px;
+}
+
+/* line 138, ../sass/page.scss */
+.node-webform .field-name-body {
+  overflow: hidden;
+}
+
+/* line 144, ../sass/page.scss */
+.page-node .field-type-image {
+  margin-bottom: 20px;
+}
+/* line 147, ../sass/page.scss */
+.page-node .action-links-field-collection-add {
+  list-style: none;
+}
+/* line 149, ../sass/page.scss */
+.page-node .action-links-field-collection-add a {
+  background-color: #b51546;
+  border-color: #b51546;
+  color: white;
+  display: inline-block;
+  padding: 8px 30px;
+  text-transform: uppercase;
+}
+/* line 68, ../sass/includes/_include.scss */
+.page-node .action-links-field-collection-add a:hover, .page-node .action-links-field-collection-add a:focus {
+  background-color: #1e304f;
+}
+/* line 153, ../sass/page.scss */
+.page-node .field-name-field-list-file {
+  line-height: 1.5;
+}
+/* line 155, ../sass/page.scss */
+.page-node .field-name-field-list-file .field-collection-view {
+  background: url(../images/icon-download.png) 0px 18px no-repeat;
+  padding-left: 40px;
+  margin-left: 25px;
+}
+/* line 160, ../sass/page.scss */
+.page-node .field-name-field-list-file .field-label {
+  border-top: 1px solid #e5e5e5;
+  font-size: 1.077em;
+  font-weight: normal;
+  margin-bottom: 10px;
+  padding-top: 15px;
+  text-transform: uppercase;
+}
+/* line 168, ../sass/page.scss */
+.page-node .field-name-field-list-file .file {
+  display: block;
+  font-family: 'roboto_slabregular';
+  font-style: normal;
+  font-weight: normal;
+}
+/* line 171, ../sass/page.scss */
+.page-node .field-name-field-list-file .file > img {
+  display: none;
+}
+/* line 175, ../sass/page.scss */
+.page-node .field-name-field-list-file .field-name-field-description {
+  color: #999999;
+  padding-left: 0;
+}
+/* line 180, ../sass/page.scss */
+.page-node h1#page-title {
+  margin-bottom: 5px;
+}
+/* line 183, ../sass/page.scss */
+.page-node .submitted {
+  margin-bottom: 20px;
+}
+
+/*----- Panel -----*/
+/* line 189, ../sass/page.scss */
+.panel {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  margin: 0;
+}
+/* line 194, ../sass/page.scss */
+.panel .panel-column:first-child {
+  padding-left: 0;
+}
+/* line 197, ../sass/page.scss */
+.panel .panel-column:last-child {
+  padding-right: 0;
+}
+
+/* line 204, ../sass/page.scss */
+.front .panel:last-of-type .container {
+  padding-bottom: 15px;
+}
+
+/*----- Header -----*/
+/* line 212, ../sass/page.scss */
+.front .header {
+  background: #1e304f;
+  left: 0;
+  position: absolute;
+  text-align: left;
+  top: 0;
+  z-index: 99;
+  width: 100%;
+}
+/* line 220, ../sass/page.scss */
+.front .header .container {
+  background: none;
+  height: 15px;
+  -webkit-transition: height 0.5s ease 0s;
+  -ms-transition: height 0.5s ease 0s;
+  transition: height 0.5s ease 0s;
+  padding: 0;
+}
+/* line 228, ../sass/page.scss */
+.front .header.open .container {
+  height: 470px;
+}
+/* line 140, ../sass/includes/_include.scss */
+.front .header:before, .front .header:after {
+  position: absolute;
+  bottom: -126px;
+  content: "";
+  height: 126px;
+  width: 50%;
+}
+/* line 147, ../sass/includes/_include.scss */
+.front .header:before {
+  left: 0px;
+  background: -webkit-linear-gradient(-99deg, #1e304f 50%, transparent 50%);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom left, #1e304f 50%, transparent 50%);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom left, #1e304f 50%, transparent 50%);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom left, #1e304f 50%, transparent 50%);
+  /* Standard syntax */
+}
+/* line 154, ../sass/includes/_include.scss */
+.front .header:after {
+  right: 1px;
+  background: -webkit-linear-gradient(-81deg, #1e304f 50%, transparent 50%);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #1e304f 50%, transparent 50%);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #1e304f 50%, transparent 50%);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #1e304f 50%, transparent 50%);
+  /* Standard syntax */
+}
+/* line 233, ../sass/page.scss */
+.front .header #logo {
+  bottom: -80px;
+  left: 50%;
+  margin-left: -97px;
+  position: absolute;
+  z-index: 99;
+}
+
+/* line 243, ../sass/page.scss */
+.header {
+  text-align: center;
+}
+/* line 245, ../sass/page.scss */
+.header .container {
+  background: none;
+  padding: 35px 0;
+  position: relative;
+}
+
+/*----- fFeatured -----*/
+/* line 254, ../sass/page.scss */
+#featured .block {
+  margin-top: 0;
+}
+/* line 256, ../sass/page.scss */
+#featured .block + .block {
+  margin-top: 40px;
+}
+
+/* Footer */
+/* line 264, ../sass/page.scss */
+#footer .container {
+  background: none;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+/* line 269, ../sass/page.scss */
+#footer ul.menu {
+  margin-bottom: 30px;
+  text-align: center;
+}
+/* line 272, ../sass/page.scss */
+#footer ul.menu li {
+  border-left: 1px solid #888888;
+  display: inline-block;
+  padding: 0 7px 0 10px;
+  line-height: 1em;
+}
+/* line 277, ../sass/page.scss */
+#footer ul.menu li:first-child {
+  border-left: none;
+}
+/* line 282, ../sass/page.scss */
+#footer .block-logo-block {
+  margin-bottom: 30px;
+  text-align: center;
+}
+/* line 286, ../sass/page.scss */
+#footer .block-info {
+  text-align: right;
+  float: left;
+  margin-right: 2%;
+  width: 48%;
+}
+/* line 292, ../sass/page.scss */
+#footer .edusation-copyright {
+  border-top: 1px solid #e4e4e4;
+  clear: both;
+  padding-top: 30px;
+  text-align: center;
+}
+/* line 298, ../sass/page.scss */
+#footer .logo-footer {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+/* Pager */
+/* line 307, ../sass/page.scss */
+.item-list .pager {
+  margin: 40px 0;
+}
+/* line 310, ../sass/page.scss */
+.item-list .pager li > a {
+  border: none;
+}
+/* line 312, ../sass/page.scss */
+.item-list .pager li > a:hover, .item-list .pager li > a:focus {
+  background: none;
+}
+/* line 317, ../sass/page.scss */
+.item-list .pager .pager-current {
+  background: #e5e5e5;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  display: inline-block !important;
+  font-weight: normal;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 !important;
+  width: 30px;
+}
+/* line 327, ../sass/page.scss */
+.item-list .pager.pager-load-more a {
+  background: white;
+  border: 7px solid #f2f2f2;
+  color: #bbc0ca;
+  font-size: 0.769em;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  font-family: 'roboto_slabregular';
+  font-style: normal;
+  font-weight: normal;
+  height: 80px;
+  line-height: 70px;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+  width: 80px;
+}
+/* line 341, ../sass/page.scss */
+.item-list .pager.pager-load-more a:hover, .item-list .pager.pager-load-more a:focus {
+  background: #1e304f;
+  color: white;
+}
+
+/* Contact page */
+/* line 351, ../sass/page.scss */
+#content .webform-client-form {
+  float: left;
+  margin-bottom: 30px;
+  margin-right: 3%;
+  width: 50%;
+}
+/* line 356, ../sass/page.scss */
+#content .webform-client-form .contact-content {
+  padding: 0;
+}
+/* line 359, ../sass/page.scss */
+#content .webform-client-form label {
+  display: none;
+}
+/* line 362, ../sass/page.scss */
+#content .webform-client-form .form-item {
+  margin: 0 0 30px;
+  width: 100%;
+}
+/* line 366, ../sass/page.scss */
+#content .webform-client-form .form-textarea-wrapper {
+  padding-right: 0 !important;
+}
+/* line 369, ../sass/page.scss */
+#content .webform-client-form .webform-component-textarea {
+  width: 100%;
+  float: none;
+  clear: both;
+}
+/* line 373, ../sass/page.scss */
+#content .webform-client-form .webform-component-textarea .form-textarea-wrapper {
+  padding-right: 20px;
+}
+/* line 377, ../sass/page.scss */
+#content .webform-client-form .form-text {
+  background: #e5e5e5;
+  width: 100%;
+}
+/* line 381, ../sass/page.scss */
+#content .webform-client-form .form-actions {
+  clear: both;
+  margin: 0;
+}
+/* line 385, ../sass/page.scss */
+#content .webform-client-form .form-submit {
+  background: #1e304f;
+  border-color: #1e304f;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  width: 100%;
+}
+/* line 390, ../sass/page.scss */
+#content .webform-client-form .form-submit:hover, #content .webform-client-form .form-submit:focus {
+  background: #b51546;
+  border-color: #b51546;
+}
+/* line 396, ../sass/page.scss */
+#content .field-name-body {
+  margin-bottom: 30px;
+}
+/* line 399, ../sass/page.scss */
+#content address {
+  margin-bottom: 27px;
+}
+
+/* 404 page */
+/* line 407, ../sass/page.scss */
+.node-page > .content > .field-type-image {
+  text-align: center;
+}
+
+/* line 412, ../sass/page.scss */
+.error-404 {
+  color: #666666;
+  margin-top: 70px;
+  font-family: 'roboto_slabregular';
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+}
+/* line 418, ../sass/page.scss */
+.error-404 .button {
+  background: #1e304f;
+  color: white;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  display: inline-block;
+  margin-top: 70px;
+  padding: 10px 0;
+  width: 50%;
+}
+/* line 426, ../sass/page.scss */
+.error-404 .button:hover, .error-404 .button:focus {
+  background: #b51546;
+}
+
+/* breadcrumb */
+/* line 434, ../sass/page.scss */
+.breadcrumb {
+  background: none;
+  border-radius: 0;
+  border-top: 1px solid #999999;
+  margin: 20px 0;
+  padding: 10px 0;
+}
+
+/* Comments */
+/* line 443, ../sass/page.scss */
+#comments {
+  border-top: 1px solid #999999;
+  margin-bottom: 40px;
+  margin-top: 35px;
+  padding-top: 35px;
+}
+/* line 450, ../sass/page.scss */
+#comments h2 {
+  font-size: 1.154em;
+}
+/* line 454, ../sass/page.scss */
+#comments .text-format-wrapper .form-item {
+  width: 100%;
+}
+
+/* line 461, ../sass/page.scss */
+.comment-form .form-item {
+  display: block;
+}
+/* line 463, ../sass/page.scss */
+.comment-form .form-item label {
+  display: block;
+}
+/* line 467, ../sass/page.scss */
+.comment-form .form-text {
+  width: 100%;
+}
+/* line 471, ../sass/page.scss */
+.comment-form .form-submit + .form-submit {
+  margin-left: 15px;
+}
+@media (min-width: 360px) {
+  /* line 470, ../sass/page.scss */
+  .comment-form .form-submit {
+    min-width: 130px;
+  }
+}
+/* line 479, ../sass/page.scss */
+.comment-form .form-type-item label {
+  display: inline-block;
+}
+/* line 483, ../sass/page.scss */
+.comment-form .form-type-fivestar {
+  margin-bottom: 15px;
+}
+/* line 485, ../sass/page.scss */
+.comment-form .form-type-fivestar label {
+  margin-right: 10px;
+}
+/* line 488, ../sass/page.scss */
+.comment-form .form-type-fivestar .form-type-select {
+  display: inline-block;
+}
+/* line 493, ../sass/page.scss */
+.comment-form .filter-wrapper .form-type-select label {
+  margin-right: 10px;
+}
+/* line 496, ../sass/page.scss */
+.comment-form .filter-wrapper .chzn-container {
+  width: 150px !important;
+}
+
+/* line 501, ../sass/page.scss */
+.filter-wrapper .form-item {
+  padding-left: 0;
+}
+
+/* line 504, ../sass/page.scss */
+.filter-help {
+  padding-right: 0;
+}
+
+/* line 507, ../sass/page.scss */
+.filter-guidelines {
+  padding: 0;
+}
+
+/* line 511, ../sass/page.scss */
+.comment {
+  margin-bottom: 25px;
+  padding-left: 20px;
+}
+/* line 514, ../sass/page.scss */
+.comment h3 {
+  display: inline-block;
+  font-family: 'roboto_slabbold';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.308em;
+  margin-left: 40px;
+  margin-bottom: 10px;
+  text-transform: none;
+}
+/* line 522, ../sass/page.scss */
+.comment .submitted {
+  margin-bottom: 15px;
+  color: #999999;
+  position: relative;
+}
+/* line 527, ../sass/page.scss */
+.comment ul.inline {
+  display: inline-block;
+  text-transform: capitalize;
+  padding-left: 10px;
+  position: relative;
+  white-space: nowrap;
+}
+/* line 533, ../sass/page.scss */
+.comment ul.inline li {
+  padding: 0;
+}
+/* line 536, ../sass/page.scss */
+.comment ul.inline:before {
+  content: "/";
+  left: 0;
+  padding: 0 5px;
+  position: absolute;
+}
+/* line 542, ../sass/page.scss */
+.comment ul.inline a {
+  color: #b51546;
+}
+/* line 544, ../sass/page.scss */
+.comment ul.inline a:hover, .comment ul.inline a:focus {
+  text-decoration: underline;
+}
+/* line 549, ../sass/page.scss */
+.comment .user-picture {
+  border: 5px solid white;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  max-width: 55px;
+  position: absolute;
+  left: -25px;
+  top: -25px;
+}
+/* line 556, ../sass/page.scss */
+.comment .user-picture img {
+  border-radius: 50%;
+}
+/* line 560, ../sass/page.scss */
+.comment .comment-group {
+  border: 1px solid #e5e5e5;
+  padding: 20px 20px 20px 40px;
+  position: relative;
+}
+/* line 566, ../sass/page.scss */
+.comment .comment-reply a:after {
+  content: "\f112";
+  color: #b51546;
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 85%;
+  padding-left: 5px;
+}
+
+/* line 575, ../sass/page.scss */
+.comment-unpublished {
+  padding-top: 25px;
+}
+
+/* line 578, ../sass/page.scss */
+.indented {
+  margin-left: 50px;
+}
+
+/* line 582, ../sass/page.scss */
+.comment-preview {
+  padding-left: 120px;
+  padding-right: 20px;
+  padding-top: 20px;
+  border: 1px solid #999999;
+}
+
+/* line 589, ../sass/page.scss */
+.comment-preview .user-picture {
+  left: 20px;
+  top: 20px;
+}
+
+/* line 595, ../sass/page.scss */
+.comment-form .form-actions {
+  margin-bottom: 30px;
+}
+/* line 600, ../sass/page.scss */
+.comment-form .field-name-field-full-name,
+.comment-form .field-name-field-email,
+.comment-form .form-item-subject {
+  display: inline-block;
+  margin-right: 2%;
+  width: 32%;
+}
+/* line 605, ../sass/page.scss */
+.comment-form .form-item-subject {
+  margin-right: 0;
+}
+
+/* line 611, ../sass/page.scss */
+.confirmation .form-actions {
+  margin-top: 25px;
+}
+/* line 613, ../sass/page.scss */
+.confirmation .form-actions .form-submit {
+  margin-right: 5px;
+}
+
+/* line 620, ../sass/page.scss */
+.comment-add a {
+  background-color: #b51546;
+  border-color: #b51546;
+  color: white;
+  display: inline-block;
+  padding: 8px 30px;
+  text-transform: uppercase;
+  color: white !important;
+}
+/* line 68, ../sass/includes/_include.scss */
+.comment-add a:hover, .comment-add a:focus {
+  background-color: #1e304f;
+}
+
+/* primary */
+/* line 627, ../sass/page.scss */
+ul.primary {
+  margin: 0 0 20px;
+  padding: 0 0 2px;
+}
+/* line 630, ../sass/page.scss */
+ul.primary li {
+  display: inline-block;
+  line-height: 1.8;
+}
+/* line 633, ../sass/page.scss */
+ul.primary li a, ul.primary li.active a {
+  border-bottom-color: white;
+  color: #b51546;
+  margin-right: 5px;
+  padding: 4px 7px;
+}
+@media (max-width: 1199px) {
+  /* line 627, ../sass/page.scss */
+  ul.primary {
+    border-bottom-color: transparent;
+    margin-bottom: 35px;
+    white-space: normal;
+  }
+  /* line 644, ../sass/page.scss */
+  ul.primary li {
+    margin-bottom: 15px;
+  }
+}
+
+/* back to top */
+/* line 651, ../sass/page.scss */
+.btn-btt {
+  -webkit-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
+  background: white;
+  border: 4px solid rgba(153, 153, 153, 0.5);
+  border-radius: 50%;
+  bottom: 20px;
+  color: #999999;
+  font-size: 1.538em;
+  height: 32px;
+  line-height: .8;
+  padding: 0 5px;
+  position: fixed;
+  text-align: center;
+  text-indent: -9999em;
+  right: 30px;
+  width: 32px;
+  z-index: 1040;
+}
+/* line 668, ../sass/page.scss */
+.btn-btt:before {
+  content: "\f106";
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  left: 0;
+  height: 100%;
+  line-height: 1;
+  position: absolute;
+  text-indent: 0;
+  top: 0;
+  width: 100%;
+}
+/* line 679, ../sass/page.scss */
+.btn-btt:hover {
+  background: #1e304f;
+  color: white;
+}
+
+/* User */
+/* line 686, ../sass/page.scss */
+.profile {
+  margin: 0;
+  padding-bottom: 30px;
+  position: relative;
+}
+/* line 690, ../sass/page.scss */
+.profile h3 {
+  border-bottom: none;
+  font-family: 'roboto_slabregular';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1em;
+  text-align: left;
+  text-transform: uppercase;
+}
+/* line 697, ../sass/page.scss */
+.profile .group-user-info {
+  float: left;
+  margin-right: 2%;
+  width: 25%;
+}
+/* line 701, ../sass/page.scss */
+.profile .group-user-info > h3 {
+  display: none;
+}
+/* line 704, ../sass/page.scss */
+.profile .group-user-info > .field-group-format-wrapper {
+  background: #f1f1f1;
+  padding: 15px;
+  width: 100%;
+}
+/* line 708, ../sass/page.scss */
+.profile .group-user-info > .field-group-format-wrapper > .field {
+  padding: 5px 0;
+}
+/* line 713, ../sass/page.scss */
+.profile .group-user-info .field-label {
+  font-family: 'roboto_slabregular';
+  font-style: normal;
+  font-weight: normal;
+  text-transform: uppercase;
+  width: 90px;
+}
+/* line 719, ../sass/page.scss */
+.profile .group-social-networks {
+  margin-top: 20px;
+}
+/* line 722, ../sass/page.scss */
+.profile .group-user-description {
+  float: right;
+  margin-top: -25%;
+  width: 73%;
+}
+/* line 727, ../sass/page.scss */
+.profile .user-picture {
+  float: none;
+  margin: 0;
+  width: 25%;
+}
+/* line 731, ../sass/page.scss */
+.profile .user-picture img {
+  width: 100%;
+}
+
+
+
+
+
