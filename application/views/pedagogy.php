@@ -43,48 +43,44 @@
           	
            
            <p align="justify">
- The institute empploys disparate teaching methodologies, with stress on active interaction and participation of teachers and the taught alike.Apart from traditional class-room lectures.innovative teaching methodologies are also adopted like.
+ The institute empploys disparate teaching methodologies, with stress on active interaction and participation of
+  teachers and the taught alike.Apart from traditional class-room lectures.innovative teaching methodologies are also adopted like.
   </p>     	
    
     <table>
     		
-    		<tr>
+    		<tr class="text-left">
             	<td> Case Analysis</td>
                 <td>Business &amp; Management Games</td>
+                <td>Paper Presentations</td>
             </tr>
-            <tr>
-            	<td>Paper Presentations</td>
-                <td> Industrial Visits</td>
-            </tr>
-            <tr>
+            <tr class="text-left">
             	<td>Seminars and Workshops</td>
                 <td> Simulate Exercises</td>
+                <td> Industrial Visits</td>
             </tr>
-            <tr>
+            <tr class="text-left">
             	<td>Group Discussions</td>
                 <td>Panel Discussions</td>
+                <td>Debates </td>
             </tr>
-            <tr>
-            	<td>Debates </td>
-                <td> Guest Lectures of Education</td>
-            </tr>
-            <tr>
+            
+            <tr class="text-left">
             	<td>Computer and Project Assignments</td>
                 <td> Corporate Lecture</td>
+                <td> Guest Lectures of Education</td>
             </tr>
-            <tr>
+            <tr class="text-left">
+                <td>Role Plays  </td>
             	<td>Sysndication </td>
                 <td>Structured Lectures</td>
             </tr>
-            <tr>
-            	<td>Role Plays  </td>
+            <tr class="text-left">
                 <td>Situational Exercises</td>
-            </tr>
-            <tr>
             	<td> Mock Interviews</td>
                 <td>Research Projects</td>
             </tr>
-            <tr>
+            <tr class="text-left">
             	<td>Quizzes</td>
             </tr>
             

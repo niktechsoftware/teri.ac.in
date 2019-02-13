@@ -42,7 +42,16 @@
           	
            
            <p align="justify">
- 
+              <b>Projeci Work:</b> MCN/BCA students have to undergo prcb business organizations as part of their curriculum 
+              They are software projects by these organizaons and they are reu,r project reports on the same for evaluation. <br>
+            <b>Campus Interviews:</b> The TPC identifies prospective employers and invites their representatives to conduct on campus placement 
+            sessions for final absorption of its graduates, It required, it also arranges for off campaus interviews In metropolitan cities 
+            where TERI graduates appear beforr the intervtew board of companies. Consultancy; Students can avail consultancy, service of the 
+            TPC with regard to their training and placement queries the TPC maintains an extensive database of potential clients and recruiters  
+            and keeps a treck of the their requirements.it guides student willing to organization of their choice and suggest them way to shape 
+            their professional careers.a track of their requirements. It guides students willing to loin Orj their choice and suggests them ways 
+            to shape their protessron
+              
  </p>     	
    
     

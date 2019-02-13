@@ -42,7 +42,13 @@
           	
            
            <p align="justify">
-   TERIits celebrate their annual function in December january after the end-semester examinations are over.This high energy. fun filled festival is conglomeration of a galaxy of events, viz, music, dance, dramas, quizzes, fashion-shows debates cultural events, and a lot more,it is the most eagerly awaited event. not only for TERIites but for entire P.G College. The show is conceptualized, planned and executed by students under the guidance of teachers,It providers ample opportunity for the most introvert students, to express his talent in front of large audience,The frolic event is a culmination of several days of preparation by all concerned. This is extravaganza emphasizes on participation of every students & exploitations of whatever talent a student possesses.
+   TERIans celebrate their annual function in December january after the end-semester examinations are over.This high energy 
+   fun-filled festival is conglomeration of a galaxy of events, viz, music, dance, dramas, quizzes, fashion-shows debates 
+   cultural events, and a lot more,it is the most eagerly awaited event,not only for TERIans,but for entire P.G.College. 
+   The show is conceptualized, planned and executed by students under the guidance of teachers,It providers ample opportunity 
+   for the most introvert students, to express his talent in front of large audience,The frolic event is a culmination of several 
+   days of preparation by all concerned. This is extravaganza emphasizes on participation of every students & exploitations of 
+   whatever talent a student possesses.
    </p>     	
      <hr>
      <h3>International Institute For Holistric Research & Voluntary Action (India-Germany)</h3>
@@ -52,7 +58,13 @@
  <hr>
  <h3>Consumer Trade Fair</h3>
      <p align="justify">
-
+         This annual mega-event is of particular significance to local entrepreneurs, businessmen and agricutural conmmunity. 
+         Products of different companies, ranging from local/indigenous produce to mega international brands, are displayed and 
+         sold through colourfurl stats. The show is managed entenational brand,are displayed and sold through colourful stats the 
+         show is managed entirely thougt industry sponsorship and is beneficial to bott the communities. producers as well as consumers 
+         While the producers get a platform for consumer awareness. buyers have an opportunity to know about and purchase most recent 
+         offerings  at offerings at unbelievably discounted perices. It attracts andience from all walk of life. be it farmers, trasers,
+          manufacturers, bankkers fo the ordinary buyer.
      </p>   <hr>
     </div>	
     

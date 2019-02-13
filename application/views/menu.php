@@ -94,13 +94,13 @@
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
         <li  data-id="1282" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="News and Press Releases " data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="#" class="" >
+  <a href="<?php echo base_url();?>index.php/welcome/academic_programes/" class="" >
         
  Academic Programmes          <span class="mega-caption">Study And Evaluation Scheme Of BCA Programme </span>
       </a>
   </li>
   <li  data-id="1282" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="News and Press Releases " data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="#" class="" >
+  <a href="<?php echo base_url();?>index.php/welcome/bca/" class="" >
         
   BCA           <span class="mega-caption">Study And Evaluation Scheme Of BCA Programme </span>
       </a>
@@ -118,13 +118,13 @@
   
 
 <li  data-id="1285" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="Explore glimpses from key events" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="#" class="" >
+  <a href="<?php echo base_url();?>index.php/welcome/mba/" class="" >
         
     MBA              <span class="mega-caption">Study And Evaluation Scheme Of MBA Programme </span>
       </a>
   </li>
   <li  data-id="1283" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="TERI in the News" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="#" class="" >
+  <a href="<?php echo base_url();?>index.php/welcome/bba/" class="" >
         
    BBA            <span class="mega-caption">Study And Evaluation Scheme Of BBA Programme </span>
       </a>
@@ -138,7 +138,7 @@
   
 
  <li  data-id="1283" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="TERI in the News" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="#" class="" >
+  <a href="<?php echo base_url();?>index.php/welcome/mca/" class="" >
         
   MCA           <span class="mega-caption">Study And Evaluation Scheme Of MCA Programme </span>
       </a>

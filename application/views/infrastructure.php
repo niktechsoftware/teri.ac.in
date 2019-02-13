@@ -44,13 +44,20 @@
           	
            
            <p align="justify">
-        Recognizing the important of practical traning.TERI has established state-of-the art computing resources incrporating latest hardware and software.Three fully air conditioned computer labs having 120 intel core i-5 & i-7 systems in all, with high speed networking and all necessary accessories are provided to students.Each lab is under a Lab-incharge and computer programmer to insure that every students receives maximum possible personalized assistance.	
+        Recognizing the important of practical traning.TERI has established state-of-the art computing resources 
+        incrporating latest hardware and software.Three fully air conditioned computer labs having 120 intel core i-5 & i-7 
+        systems in all, with high speed networking and all necessary accessories are provided to students.Each lab is under a 
+        Lab-incharge and computer programmer to insure that every students receives maximum possible personalized assistance.
+        <br>
+        The labs have 2 Mbps Brodband Internet connection available round-the-clock through out the network, 
+        offering unlimited internet access to every student.	
         </p><hr>
-      <h3>Operating System:</h3>      	
+            	
      <p align="justify">
-       Window NT, Linux, Unix Windows-ME, Window-XP, Window-2000<br>
-Networking Environment<br>
-Windows NT 4.0Novel Network,Windows-XP,Unix,Linux
+     <span style="color: red;">Operating System:</span>
+        windows-2003 Server, Window NT, Linux, Unix, Windows-7, <br>
+<span style="color: red;">Networking Environment:</span>
+Window, Novel Network, Unix/Linux 
        </p>   <hr>  	
        <h3>Software :</h3>      	
      <table><tr>
@@ -63,7 +70,7 @@ Windows NT 4.0Novel Network,Windows-XP,Unix,Linux
      </tr>
      <tr>
     <td>RDBMS</td>
-    <td> Oracle 11i,Power Builder 4.0,MS-SQL</td>
+    <td> Oracle 11i,Power Builder 4.0,MS-SQL,MATLAB-R2014A,WEKA-6.1</td>
      </tr>
      <tr>
     <td> Server </td>
@@ -83,29 +90,29 @@ Windows NT 4.0Novel Network,Windows-XP,Unix,Linux
       <h3>Hardware :</h3>
        <table><tr>
     <td>Server</td>
-    <td>  IBM Server,HP Prolient</td>
+    <td>  IBM Server, Compaq/HP Prolient </td>
      </tr>
      <tr>
-    <td> Clients </td>
-    <td> Core i-5, and i-7 based compaq &amp; HCI</td>
+    <td> Clients : </td>
+    <td> Core i5 based Compaq & HCI Nodes </td>
      </tr>
      <tr>
     <td> Project  </td>
-    <td>  LCD,OHP and Slide Projects</td>
+    <td>  LCD, ohp and slide Projectors </td>
      </tr>
      <tr>
     <td> Accessories </td>
-    <td> Laser, Inkjet and Dot-Matrix Printers</td>
+    <td> laser, Inkjet and Dot-Matrix Printers, Scanners, DVD-Writer, Zip Drivers, Pen Drives</td>
      </tr>
-     <tr>
-    <td> Scanners    </td>
-    <td>  DVD-Writer,Zip Drives,Pen Drives,etc.</td>
-     </tr>
+     
       </table>
        <hr>
        <h3>Organization Laboratory :</h3>
         <p align="justify">
-        Students learn about computer organizatioin in a full- fledged separate oraganization lab through the use of components like : Digital kit 8085 Microprocessor kits, Half-Adder Circuit, bread Board Circuit JK,RS,D Flip Flop binary UP-DOWN counter,Left-Right Shift Register,5Volt DC Supply,Registers and Connecting wires.
+       students learn about computer organization in a full-fledged separate organization lab through the use of 
+       components like: Digital Trainer Kits, 8085 Microprocessor Kits, Half-adder circuit, full-adder circuit, 
+       Bread Board Circuit, JK,RS,D Flip Flop Binary Up-down Counter, Left-Right Shift Register, 5Volts DC Supply, 
+       Registers and connecting wires.
 	</p>
 	<h3>Unix Laboratory :</h3>
 

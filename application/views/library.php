@@ -43,13 +43,22 @@
           	
            
            <p align="justify">
-     The institue has devoted considerable resources on its libaries, realizing the important role they play in grooming potential technocrats.The departmental library is housed in 2000 sq.ft.area and has a fast-growing collection of around 10000 books.The entire library is fully digitalized 2000 titles of most contemporary text and reference books insures that students face no dearth of study material to complement classroom lectures.The library subscribes to around 100 national/International periodicals (Journals and Magazines) of repute besides all leading national news paper in English and Hindi.
+     The institue has devoted considerable resources on its libaries, realizing the important role they play in grooming
+      potential technocrats.The departmental library is housed in 2000 sq.ft.area and has a fast-growing collection of around 
+      10000 books.The entire library is fully digitalized 2000 titles of most contemporary text and reference books insures that
+       students face no dearth of study material to complement classroom lectures.The library subscribes to around 100 
+       national/International periodicals (Journals and Magazines) of repute besides all leading national news paper in English and Hindi.
      </p>     	
      <p align="justify">
-     The library has vast collection of ease-studies, research-reports,video-cassettes and CD ROMs.There is open-access system whereby and student can access any book o his/her own account.Comfortable reading hall, qualified & cooperative library-staff and strict discipline in the library are perfect allurements for students to spend enough time with books.
+     The library has vast collection of case-studies, research-reports,video-cassettes and CD ROMs.There is open-access 
+     system whereby and student can access any book o his/her own account.Comfortable reading hall, qualified & cooperative
+      library-staff and strict discipline in the library are perfect allurements for students to spend enough time with books.
 </p>
      <p align="justify">
-The institue has also setup a Disital Library with access to on line study material via broad band connecttion and hosting vast collection of CD ROMs.The students can also access the fully digitalished central Research Library of the college which has vast collection of about one lac books on diverse subjects.it has an immensely rich offering of encyclopedias, dictionaries,journals,magazines and literature.As an added advantage,the library offers Xerox and binding facilities to the students.
+The institue has also setup a Disital Library with access to online study material via broadband connecttion and hosting a
+ vast collection of CD ROMs.The students can also access the fully digitalished central Research Library of the college which
+  has vast collection of about one lac books on diverse subjects.It has an immensely rich offering of encyclopedias, dictionaries,
+  journals,magazines and literature.As an added advantage,the library offers Xerox and binding facilities to the students.
        </p>   <hr>
     </div>	
     

@@ -49,9 +49,12 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'gfincpnt_pgcteri';
+/*$db['default']['username'] = 'gfincpnt_pgcteri';
 $db['default']['password'] = 'rahul!123singh';
-$db['default']['database'] = 'gfincpnt_pgcteri';
+$db['default']['database'] = 'gfincpnt_pgcteri';*/
+$db['default']['username'] = 'root';
+$db['default']['password'] = '';
+$db['default']['database'] = 'teri';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;

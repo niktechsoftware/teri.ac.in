@@ -22,6 +22,31 @@ class Welcome extends CI_Controller {
 		$this->load->view('welcome_message');
 	}
 	
+	public function mba()
+	{
+	    $this->load->view('mba_page');
+	}
+	
+	public function bba()
+	{
+	    $this->load->view('bba_page');
+	}
+	
+	public function mca()
+	{
+	    $this->load->view('mca_page');
+	}
+	
+	public function bca()
+	{
+	    $this->load->view('bca_page');
+	}
+	
+	public function academic_programes()
+	{
+	    $this->load->view('academic_programes_page');
+	}
+	
 	public function regStudent()
 	{
 		$this->load->view('regStudent');

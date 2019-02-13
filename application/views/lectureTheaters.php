@@ -39,15 +39,26 @@
   
   	<div class="views-field views-field-title"><span class="field-content"><h3>Lecture Theaters</h3></span></div>  	
   	 <div class="col-sm-8">
-          	
-           
            <p align="justify">
-      The modern lecture-halls of the institue are a delight for students.They are airy, illuminated and adorned with ergonomic seats,white boards and latest audio-visual aids like LDC/Slide projectors,OHPs etc.They are perfect complements to the thought provoking and erudite lectures delivered by the core/visting faculty.Alleviated seating arrangement provides unhindered view while ample hand & leg-room ensures that audience is able to devote full attention to the lecture.
+      The modern lecture-halls of the institue are a delight for students.They are airy, illuminated and adorned with ergonomic seats,
+      white boards and latest audio-visual aids like LDC/Slide projectors,OHPs etc.They are perfect complements to the thought provoking 
+      and erudite lectures delivered by the core/visting faculty.Alleviated seating arrangement provides unhindered view while ample hand 
+      & leg-room ensures that audience is able to devote full attention to the lecture.
        </p><hr>
-      <h3>Conference Hall:</h3>      	
+      <h3>Conference Hall</h3>      	
      <p align="justify">
-       A fully air-conditioned conferece hall which can accommodate about 150 persons is the hub of diverse activities like conferences,seminars, 
-       work-shop, groupdicussions,panel-discussions, student activities,etc.
+       A fully air- conditioned conference hall which can accommodate about 150 persons is the hub of diverse activities like 
+       conferences, seminars, work-shops, group-discussions, panel- discussions, corporate presentaions,student activities, etc. 
+       It is adorned with state-of-the-art devices like LCD projector, OHP, VCR,DVD/VCD/Audio CD/MP3/MP4 players,microphones, 
+       speakers, etc,
+       </p>   <hr>
+        <h3>Words Of Wisdom</h3> 
+        <p align="justify">
+      The Institute has modern Lecture-halls which are airy, illuminated and adorned with ergonomic seats, white boards and latest 
+      audio-visual aids like LCD/Slide projectors, OHPs etc.
+They have alleviated seating arrangement which provides unhindered view while ample hand & leg-room ensures that the audience is 
+able to devote full attention to the lectures.
+
        </p>   <hr>
     </div>	
     

@@ -42,26 +42,37 @@
           	
            
            <p align="justify">
-  The institute provides comfortable residential living for boys and girls amidst luch green and serene surroundings.There are separate hotels for boys (200 seated )and girls ( 50 seated),each under the charge of a resident warden who is assisted by host sweepers, gardeners,etc.Strict rules are followed in the hostels for maintaining perfect discipline.<br />
-
-Accommodation is provided on double-occupancy basis for 6000.00 p.a Arefundable security charge of 1000.00 is collected at the time of admission in the hostels.Hostels have comfortable well-furnished rooms with 24 hours water & electricity supply (backup through high-power gensets) and telephone connectioin.<br />
-
-Hygienic and homely food is served in the hostel mess which is managed by the residentals themselves on cooperative basis.Meals for resident students are provided daily except on sundays when only breakfast and late lunch are served.Diet charge are extra and kept within reasonable limits There is a dormitory & common room in each hostel with facilities of watching TV, reading indoor games like table-tennis,carom etc.and outdoor games like cricket,volleyball,badminton etc.
-  
-  </p>     	
+ The  Institute provides comfortable residential living for boys and girls  amidst lush green and srene surrounding. 
+ There are separate hostels for boys(200 seated) and girls (50 seated),each under the charge of a resident warden who is assisted 
+ by lost of supporting staff like security-guards, servants, sweepers, gardeners, etc. Strict rules are followed in the hostels for
+ maintaining perfect discipline.<br>
+Accommodation is provided on doule-occupancy basis for Rs. 6000 p.a.(Diet charges extra). A refundable security charge of
+ Rs. 1000.00 is collected at time of admission in the hostels. Hostels have comfortable well- furnished rooms with 24 hour 
+ water & electricity supply (back through high-power gensest) and telephone connection. Hygienic and homely food is served 
+ throughout the week in the hostel mess which is managed by the residents themselves on cooperative basis.
+There is a dormitory & Common room in each hostel with facilities of watching TV, Reading and indoor games like table-tennis, carom, etc.
+  </p>
+  <span style="color: red;font-size:18px;">Ragging in any form is a criminal offence and may lead to expulsion from Institute.</span>     	
      <hr>
      <h3>Sports Facilities</h3>
      <p align="justify">
-     Students at TERI have access to a huge sports complex with facilities for practically every major sport under the guidance trained and qualified sport-teachers. There are separate grounds for football, hacked and cricket, The spacious with all modern exercise & fitness equipments gymnastic bars,rings, kho also exist is the complex. The athletics complex includes a 400m track.shot-put, discuss-throw,high-jump, long and triple-jump facilities.
+     Students at TERI have access to a huge sports complex with facilities for practically every major spots under the guidance
+      trained and qualified sports-teachers. There are separate grounds for football, hockey and cricket. 
+      The spacious 6000 sq. ft. X 60 ft. high gymnasium is a functionally designed building with all modern exercise & fitness equipments,
+       gymnastic bars, rings, mattress, wrestling mat, badminton-court, table-tennis board, etc. outdoor-courts for basketball,
+        volleyball, kabaddi and kho-kho also exist in the complex. The athletics complex includes a 400m track, shot-put,
+         discuss-throw, high-jump, long-jump and triple-jump facilities.
      </p>
  <hr>
  <h3>Banking & Postal Facilities</h3>
      <p align="justify">
-
+        The college has a full-fledged branch of SBI with facility exclusively for its students. 
+        Post-office is also located at working distance from the campus.
      </p>   <hr>
      <h3>Medical Facilities</h3>
      <p align="justify">
-
+     There is a government dispensary in the campus with a full-time doctor and compounder. 
+     Students can avail free health check-up, consultation and medicine from the dispensary.
      </p>  
     </div>	
     
